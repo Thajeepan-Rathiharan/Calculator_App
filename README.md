@@ -1,5 +1,7 @@
 # Calculator App
-This is my finished calculator app I made from the challenge set by [Frontend Mentor](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29)
+This is my finished calculator app I made from the challenge set by [Frontend Mentor](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29).
+
+Here is the link to my [calculator app](https://thajeepan-rathiharan.github.io/Calculator_App/).
 
 ## Features
 - Responsive design
